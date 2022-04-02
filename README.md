@@ -1,5 +1,7 @@
 # :video_game: Learning Unreal Engine Game for Game Development
 
+:link: Unreal Engine [Online Learning Content Library](https://learn.unrealengine.com/home/library)
+
 ## Unreal Engine Online Learning
 
 :heavy_check_mark: Completed  
@@ -7,8 +9,11 @@
 
 ### :beginner: Getting Started in Unreal Engine
 
+- :heavy_check_mark: A Tour of the New Unreal Engine Learning Portal
 - :heavy_check_mark: Your First Hour with Unreal Engine
 - :heavy_check_mark: Introducing Unreal Engine
+- :o: Your First Hour in Unreal Engine 4
+- :o: Unreal Editor Fundamentals - Editor Introduction
 - :o: Comprehending Projects and File Structure
 - :o: Building Better Pipelines
 
