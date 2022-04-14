@@ -1,29 +1,13 @@
-# Game Development Project Structure
+# :mortar_board: :video_game: Learning Unreal Editor
 
-## About
+## :information_source: About
 
-Game development project folder structure
+Learning Unreal Editor with a sample game from the UE Community and online courses.
 
-* Assets - all art assets, sounds and music files
-* Docs - project documentation and manual
-* Game - playable demo, tests builds and final distribution
-* Source - the game source code
+### :memo: Version
 
-### .editorconfig
+These projects were created with Unreal Editor 5.0.0
 
-The `.editorconfig` file encourage and help to maintain consistent coding styles between different
-editors and IDEs. For more details, please refer to the [EditorConfig
-project](http://editorconfig.org/).
+### :page_with_curl: License
 
-### .gitignore
-
-Comprehensive set of ignores on GitHub: [https://github.com/github/gitignore](https://github.com/github/gitignore)
-
-### LICENCE
-
-An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
-[Choose a license](https://choosealicense.com/) for your project.
-
-### VERSION
-
-Learn about [Semantic Versioning](https://semver.org/) and how to use it in your project.
+Please have a look at the [Asset Store Terms of Service and EULA](https://unity3d.com/legal/as_terms)
